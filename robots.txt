@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shiyubai.github.io/sitemap.xml
